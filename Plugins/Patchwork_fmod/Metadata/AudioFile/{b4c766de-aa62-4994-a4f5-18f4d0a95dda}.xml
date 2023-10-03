@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b4c766de-aa62-4994-a4f5-18f4d0a95dda}">
+		<property name="assetPath">
+			<value>patchwork_music_speed.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>74.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{7f6b5a92-79e1-4272-baa8-769acdef83f6}</destination>
+		</relationship>
+	</object>
+</objects>
