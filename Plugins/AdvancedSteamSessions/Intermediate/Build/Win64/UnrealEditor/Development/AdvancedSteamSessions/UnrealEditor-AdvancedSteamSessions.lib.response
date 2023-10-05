@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-AdvancedSteamSessions.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Marco\Documents\GitHub\MadridInGameSEP23\Intermediate\Build\Win64\PatchworkEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\Marco\Documents\GitHub\MadridInGameSEP23\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Module.AdvancedSteamSessions.cpp.obj"
+"C:\Users\Marco\Documents\GitHub\MadridInGameSEP23\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\Default.rc2.res"
+/OUT:"C:\Users\Marco\Documents\GitHub\MadridInGameSEP23\Plugins\AdvancedSteamSessions\Intermediate\Build\Win64\UnrealEditor\Development\AdvancedSteamSessions\UnrealEditor-AdvancedSteamSessions.lib"
